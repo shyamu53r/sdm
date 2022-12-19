@@ -1,2 +1,2 @@
 # sdm
-sdm first repo
+This is my first contribution.
